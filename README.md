@@ -1,1 +1,2 @@
-# GradiCode-Python-Assignment-Autograder
+# GradiCode
+Python Assignment Autograder
